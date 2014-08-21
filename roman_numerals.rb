@@ -1,3 +1,5 @@
+# This is an excercise from Chris Pine's 'Learn to Program' - Ch9 Q3
+
 def roman_numeral num 
 
 	thous = (num/1000)
