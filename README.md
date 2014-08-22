@@ -21,7 +21,7 @@ Ch 10
 ------------
 
 - [ ] Rite of Passage: Sorting
-- [ ] Shuffle
+- [X] < a href = "https://github.com/MysticMania/L2P-Exercises/blob/master/shuffle.rb">Shuffle </a>
 - [ ] Dictionary Sort
 - [ ] Expanded english_number 
 - [ ] “Ninety-nine Bottles of Beer on the Wall.”
